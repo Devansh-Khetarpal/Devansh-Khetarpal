@@ -1,4 +1,4 @@
-![logo](https://github.com/Devansh-Khetarpal/Devansh-Khetarpal/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/Devansh-Khetarpal/Devansh-Khetarpal/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Devansh khetarpal</h1>
 <h3 align="center">Hey there! I'm Devansh Khetarpal, a passionate 3rd year BTech Undergraduate student with a keen interest in exploring and mastering the latest technologies.</h3>
 
