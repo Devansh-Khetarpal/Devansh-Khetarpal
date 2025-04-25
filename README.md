@@ -1,6 +1,17 @@
 ![logo](https://github.com/Devansh-Khetarpal/Devansh-Khetarpal/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Devansh khetarpal</h1>
-<h3 align="center">Hey there! I'm Devansh Khetarpal, a passionate 3rd year BTech Undergraduate student with a keen interest in exploring and mastering the latest technologies.</h3>
+<h3 align="center">Hello! I'm Devansh Khetarpal, a final-year engineering student with a strong foundation in programming and a passion for innovation. Proficient in a range of programming languages, including:
+
+- C
+- C++
+- Java
+- Python
+
+I'm particularly interested in applying my skills to Artificial Intelligence, Machine Learning, Deep Learning, and Web Development. I'm excited to connect with like-minded professionals and explore opportunities in these fields.
+
+When I'm not coding or studying, you can find me gaming and exploring new worlds. I believe that gaming and technology go hand-in-hand, and I'm always looking for ways to apply my skills to create new and exciting experiences.
+
+Feel free to connect with me if you're interested in AI, ML, Web Development, or just want to chat about the latest gaming trends. Let's build something amazing together! ✌🏻</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
